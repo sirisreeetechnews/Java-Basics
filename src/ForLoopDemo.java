@@ -1,47 +1,4 @@
-
-
-
-/*
-
-
-
-
-
-
-
-
-
-
-
-                                        LOOPS
-
-
-
-
-
-
-
-
-
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    /*
+  /*
         * Write a program to print 1 to 10 numbers
      */
 
@@ -61,13 +18,6 @@
     }
 
 
-
-
-
-
-
-
-
     /*
         * Loops
             Loops can execute a block of code as long as a specified condition is reached.
@@ -77,26 +27,6 @@
                 // code to execute multiple times untill specified condition
             }
      */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     public class ForLoopDemo {
         public static void main(String[] args) {
